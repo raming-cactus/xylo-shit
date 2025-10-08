@@ -1,0 +1,67 @@
+{
+  "namespace": "Offsets",
+  "version": "494828652c274712",
+  "date": "10/4/2025",
+  "offsets": [
+    {
+      "name": "EnableLoadModule",
+      "value": "0x60834F8",
+      "type": "uintptr_t"
+    },
+    {
+      "name": "FakeDataModelPointer",
+      "value": "0x71CBE48",
+      "type": "inline constexpr uintptr_t"
+    },
+    {
+      "name": "FakeDataModelToDataModel",
+      "value": "0x1C0",
+      "type": "inline constexpr uintptr_t"
+    },
+    {
+      "name": "Children",
+      "value": "0x68",
+      "type": "inline constexpr uintptr_t"
+    },
+    {
+      "name": "ChildrenEnd",
+      "value": "0x8",
+      "type": "inline constexpr uintptr_t"
+    },
+    {
+      "name": "Name",
+      "value": "0x88",
+      "type": "inline constexpr uintptr_t"
+    },
+    {
+      "name": "Value",
+      "value": "0xD8",
+      "type": "inline constexpr uintptr_t"
+    },
+    {
+      "name": "GameLoaded",
+      "value": "0x690",
+      "type": "inline constexpr uintptr_t"
+    },
+    {
+      "name": "ClassDescriptor",
+      "value": "0x18",
+      "type": "inline constexpr uintptr_t"
+    },
+    {
+      "name": "ClassDescriptorToClassName",
+      "value": "0x8",
+      "type": "inline constexpr uintptr_t"
+    },
+    {
+      "name": "LocalScriptByteCode",
+      "value": "0x1B0",
+      "type": "inline constexpr uintptr_t"
+    },
+    {
+      "name": "ModuleScriptByteCode",
+      "value": "0x158",
+      "type": "inline constexpr uintptr_t"
+    }
+  ]
+}
