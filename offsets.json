@@ -1,7 +1,7 @@
 {
   "namespace": "Offsets",
   "version": "494828652c274712",
-  "date": "10/4/2025",
+  "date": "10/8/2025",
   "offsets": [
     {
       "name": "EnableLoadModule",
@@ -10,7 +10,7 @@
     },
     {
       "name": "FakeDataModelPointer",
-      "value": "0x71CBE48",
+      "value": "0x720A138",
       "type": "inline constexpr uintptr_t"
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "Children",
-      "value": "0x68",
+      "value": "0x60",
       "type": "inline constexpr uintptr_t"
     },
     {
@@ -30,17 +30,17 @@
     },
     {
       "name": "Name",
-      "value": "0x88",
+      "value": "0x80",
       "type": "inline constexpr uintptr_t"
     },
     {
       "name": "Value",
-      "value": "0xD8",
+      "value": "0xD0",
       "type": "inline constexpr uintptr_t"
     },
     {
       "name": "GameLoaded",
-      "value": "0x690",
+      "value": "0x6B8",
       "type": "inline constexpr uintptr_t"
     },
     {
@@ -55,12 +55,12 @@
     },
     {
       "name": "LocalScriptByteCode",
-      "value": "0x1B0",
+      "value": "0x1A8",
       "type": "inline constexpr uintptr_t"
     },
     {
       "name": "ModuleScriptByteCode",
-      "value": "0x158",
+      "value": "0x150",
       "type": "inline constexpr uintptr_t"
     }
   ]
